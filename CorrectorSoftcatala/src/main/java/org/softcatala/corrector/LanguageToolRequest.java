@@ -54,7 +54,7 @@ public class LanguageToolRequest {
     private final LanguageToolParsing languageToolParsing = new LanguageToolParsing();
     String[][] mAndroidToLTLangMap = new String[][]{
             {"en", "en-US"},
-            {"de", "de-DE"},
+            {"de", "de-AT"},
             {"pl", "pl"},
             {"fr", "fr"},
             {"ca", "ca"},

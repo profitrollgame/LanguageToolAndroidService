@@ -46,7 +46,7 @@ import android.util.Log;
 public class LanguageToolRequest {
 
     //private static final String SERVER_URL = "https://www.softcatala.org/languagetool/api/";
-    private static final String SERVER_URL = "https://languagetool.org/api/v2/check";
+    private static final String SERVER_URL = "https://languagetool.lw1.at/v2/check";
     private static final String ENCODING = "UTF-8";
     private static final String TAG = LanguageToolRequest.class.getSimpleName();
     private static final String m_sessionId = GetSessionID();

@@ -1,13 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 19
-    buildToolsVersion "23.0.2"
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+    useLibrary  'org.apache.http.legacy'
+
 
     defaultConfig {
         applicationId "org.softcatala.corrector"
-        minSdkVersion 19
-        targetSdkVersion 19
+        minSdkVersion 25
+        targetSdkVersion 25
         versionCode 7
         versionName "1.0.6"
     }

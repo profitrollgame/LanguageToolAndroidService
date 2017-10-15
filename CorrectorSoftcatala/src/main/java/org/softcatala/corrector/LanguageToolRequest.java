@@ -56,7 +56,7 @@ public class LanguageToolRequest {
     private String m_language;
 
     public LanguageToolRequest(String language) {
-        m_language = ConvertLanguage(language);
+        m_language = "auto";
     }
 
     static private String GetSessionID() {

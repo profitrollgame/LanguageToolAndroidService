@@ -38,7 +38,7 @@
     <string name="limitations_title">Limitations</string>
     <string name="install_steps">To configure this application, follow these steps:\n
         1. Go to Settings -> Languages &amp; input -> Spell checker.\n
-        2. Select the "LanguageTool proofreader" as "Default spell checker."\n
+        2. Select the "LanguageTool proofreader" as "Default spell checker.\n
         3. For stable operation, turn off the energy savings for the application."\n
     </string>
     <string name="app_limitations">Known limitations:\n

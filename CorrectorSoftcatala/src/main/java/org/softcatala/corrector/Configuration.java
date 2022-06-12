@@ -25,7 +25,7 @@ import android.preference.PreferenceManager;
 import java.util.Date;
 
 public class Configuration {
-    private static final String SoftcatalaServer = "https://lt.softcatala.org";
+    private static final String SoftcatalaServer = "https://languagetool.org/api/";
 
     private static volatile Configuration instance = null;
     private static String PREF_SERVER = "corrector.softcatala.server";

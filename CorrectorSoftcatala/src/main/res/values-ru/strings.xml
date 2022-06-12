@@ -4,13 +4,23 @@
   <string name="spellchecker_name">Корректор LanguageTool </string>
   <string name="sample_settings">Настройки</string>
   <string name="version">Версия</string>
-  <string name="server">Cерверу</string>
+  <string name="server">Cервер</string>
   <string name="requests">Объём запросов к серверу проверки</string>
   <!--%s is the version number and %s the date (e.g Sun Feb 28)-->
   <string name="version_text" formatted="false">%s (сборка от %s)</string>
   <!--%d is the number of connections and %s the date (e.g Sun Feb 28)-->
   <string name="connections" formatted="false">%d (последний запрос %s)</string>
   <!--Used on the string (last %s) when there is connection yet-->
-  <string name="connection_none">отсутствует</string>
+  <string name="connection_none">Отсутствует</string>
   <string name="button_close">Закрыть</string>
+  <string name="install_steps">Чтобы настроить это приложение, выполните следующие действия:\n
+      1. Перейти в Настройки -> Система &amp; Язык и ввод -> Проверка орфографии.\n
+      2. Выберите «LanguageTool» как «Проверка орфографии по умолчанию."\n
+      3. Для стабильной работы отключите экономию энергии для приложения."\n
+  </string>
+  <string name="app_limitations">Known limitations:\n
+      1. Некоторые производители, такие как Samsung, отключают возможным выбора инструмента проверки орфографии.\n
+      2. Некоторые клавиатуры (например, клавиатура Yandex) игнорируют конфигурацию проверки орфографии.\n
+      \nВ целом из -за фрагментации экосистемы Android в API и UI. Значительное количество устройств не работает с этим приложением.
+  </string>
 </resources>

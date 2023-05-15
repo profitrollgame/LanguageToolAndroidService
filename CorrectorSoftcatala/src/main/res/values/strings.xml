@@ -20,8 +20,8 @@
 
 -->
 <resources>
-    <string name="app_name">LanguageTool proofreader</string>
-    <string name="spellchecker_name">LanguageTool proofreader</string>
+    <string name="app_name">LanguageTool</string>
+    <string name="spellchecker_name">LanguageTool</string>
     <string name="subtype_generic" translatable="false">%s</string>
     <string name="sample_settings">Preferences</string>
     <string name="version">Version</string>
@@ -33,18 +33,15 @@
     <string name="connections" formatted="false">%d (last %s)</string>
     <!-- Used on the string (last %s) when there is connection yet -->
     <string name="connection_none">none</string>
-    <string name="welcome">Welcome to LanguageTool proofreader!</string>
+    <string name="welcome">Welcome to LanguageTool!</string>
     <string name="installation_title">Installation</string>
     <string name="limitations_title">Limitations</string>
-    <string name="install_steps">To configure this application, follow these steps:\n
-        1. Go to Settings -> Languages &amp; input -> Spell checker.\n
-        2. Select the "LanguageTool proofreader" as "Default spell checker.\n
-        3. For stable operation, turn off the energy savings for the application.\n
+    <string name="install_steps">To configure this application, follow these steps:\n1. Go to Settings -> Languages &amp; input -> Spell checker.\n2. Select the "LanguageTool" as "Default spell checker.\n3. Turn off the energy savings for the application.\n\nYou can also press the button below to simplify the process of finding the settings page with spellchecking.\n
     </string>
     <string name="app_limitations">Known limitations:\n
         1. Some manufacturers like Samsung remove the preferences that make possible select 3rd party spell checkers like this.\n
         2. Some keyboards (e.g Yandex keyboard) ignore the configuration of 3rd party spell checkers.\n
         \nOverall due to Android ecosystem fragmentation in API and UI configuration layers a significant combination of devices do not work with this application.
     </string>
-    <string name="button_close">Close</string>
+    <string name="button_close">Open settings</string>
 </resources>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Корректор LanguageTool </string>
-  <string name="spellchecker_name">Корректор LanguageTool </string>
+  <string name="app_name">LanguageTool</string>
+  <string name="spellchecker_name">LanguageTool</string>
   <string name="sample_settings">Настройки</string>
   <string name="version">Версия</string>
   <string name="server">Cервер</string>

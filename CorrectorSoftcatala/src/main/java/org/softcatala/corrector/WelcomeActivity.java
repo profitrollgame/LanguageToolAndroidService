@@ -1,6 +1,9 @@
 package org.softcatala.corrector;
 
 import android.app.Activity;
+import android.content.ComponentName;
+import android.content.Intent;
+import android.provider.Settings;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -29,7 +32,9 @@ public class WelcomeActivity extends Activity {
         okButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                finish();
+                Intent intent = new Intent();
+                intent.setComponent(new ComponentName("com.android.settings", "com.android.settings.Settings$LanguageAndInputSettingsActivity"));
+                startActivity(intent);
             }
         });
     }

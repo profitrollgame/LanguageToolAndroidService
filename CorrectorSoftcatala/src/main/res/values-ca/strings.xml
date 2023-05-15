@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Revisió de text LanguageTool</string>
-  <string name="spellchecker_name">Revisió de text LanguageTool</string>
+  <string name="app_name">LanguageTool</string>
+  <string name="spellchecker_name">LanguageTool</string>
   <string name="sample_settings">Preferències</string>
   <string name="version">Versió</string>
   <string name="server">Servidor</string>

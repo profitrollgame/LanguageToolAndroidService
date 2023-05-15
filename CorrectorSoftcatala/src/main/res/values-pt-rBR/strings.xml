@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Revisor LanguageTool</string>
-  <string name="spellchecker_name">Revisor LanguageTool</string>
+  <string name="app_name">LanguageTool</string>
+  <string name="spellchecker_name">LanguageTool</string>
   <string name="sample_settings">Configurações</string>
   <string name="version">Versão</string>
   <string name="server">Servidor</string>

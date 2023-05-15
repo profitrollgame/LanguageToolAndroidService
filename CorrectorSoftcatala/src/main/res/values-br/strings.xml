@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Adlenner LanguageTool</string>
-  <string name="spellchecker_name">Adlenner LanguageTool</string>
+  <string name="app_name">LanguageTool</string>
+  <string name="spellchecker_name">LanguageTool</string>
   <string name="sample_settings">Perzhioù</string>
   <string name="version">Stumm</string>
   <string name="server">Servijer</string>
